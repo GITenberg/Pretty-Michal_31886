@@ -1,0 +1,39 @@
+_repo: Pretty-Michal_31886
+_version: 0.1.0
+alternative_title: A Szép Mikhál. English
+contributor:
+  translator:
+    agent_name: Bain, R. Nisbet (Robert Nisbet)
+    alias: Bain, Robert Nisbet
+    birthdate: 1854
+    deathdate: 1909
+    gutenberg_agent_id: '5096'
+    url: http://www.gutenberg.org/2009/agents/5096
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jókai, Mór
+    aliases:
+    - Jokai, Mor
+    - Jokai, Maurus
+    birthdate: 1825
+    deathdate: 1904
+    gutenberg_agent_id: '5845'
+    url: http://www.gutenberg.org/2009/agents/5845
+    wikipedia: http://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
+description: ''
+gutenberg_issued: '2010-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungary -- Fiction'
+title: Pretty Michal
+url: http://www.gutenberg.org/ebooks/31886
